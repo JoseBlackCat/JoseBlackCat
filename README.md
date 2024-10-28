@@ -10,10 +10,10 @@ Soy Jose, un desarrollador frontend apasionado por crear interfaces elegantes y 
 
 ### 🛠️ Tecnologías Principales
 - **Frontend**: `HTML5`, `CSS3`, `JavaScript`
-- **Frameworks & Librerías**: `Tailwind CSS`, `Bootstrap`, `React`
+- **Frameworks & Librerías**: `Tailwind CSS`, `Bootstrap`, `React`, `Astro`
 - **Backend Básico**: `PHP` con `Laravel`
 - **Bases de Datos**: `MySQL`
-- **Herramientas**: `XAMPP`, `Git/GitHub`, `NPM`
+- **Herramientas**: `XAMPP`, `Git/GitHub`, `NPM`, `PNPM`
 
 ---
 
@@ -25,7 +25,7 @@ Soy Jose, un desarrollador frontend apasionado por crear interfaces elegantes y 
 ---
 
 ### 🚀 Metas Actuales
-Continuar desarrollándome en frameworks como **React** y avanzar en la creación de interfaces de usuario cada vez más intuitivas y eficientes. También estoy interesado en aprender más sobre diseño UX/UI para optimizar la accesibilidad y usabilidad de mis proyectos.
+Continuar desarrollándome en frameworks como **React** y **Astro** y avanzar en la creación de interfaces de usuario cada vez más intuitivas y eficientes. También estoy interesado en aprender más sobre diseño UX/UI para optimizar la accesibilidad y usabilidad de mis proyectos.
 
 ---
 
