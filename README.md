@@ -16,7 +16,6 @@ Soy Jose, un desarrollador frontend apasionado por crear interfaces elegantes y 
 | ![JavaScript](https://img.icons8.com/color/30/javascript.png) **JavaScript** | Lógica y funcionalidades dinámicas |
 | ![Tailwind CSS](https://img.icons8.com/color/30/tailwindcss.png) **Tailwind CSS** | Framework de utilidades CSS  |
 | ![Bootstrap](https://img.icons8.com/color/30/bootstrap.png) **Bootstrap** | Sistema de diseño responsivo |
-| ![React](https://img.icons8.com/color/30/react-native.png) **React**       | Desarrollo de SPA y componentes    |
 | ![Astro](https://img.icons8.com/fluency/30/astro.png) **Astro**           | Framework para optimización de rendimiento |
 | ![PHP](https://img.icons8.com/color/30/php.png) **PHP con Laravel**       | Desarrollo backend básico |
 | ![MySQL](https://img.icons8.com/color/30/mysql-logo.png) **MySQL**        | Gestión de bases de datos relacionales |
@@ -36,9 +35,9 @@ Continuar desarrollándome en frameworks como **React** y **Astro** y avanzar en
 ---
 
 ### 📞 Conecta Conmigo
-- **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com)
-- **GitHub**: [Tu perfil de GitHub](https://github.com)
-- **Email**: [tuemail@example.com](mailto:tuemail@example.com)
+- **GitHub**: [JoseBlackCat ](https://github.com/JoseBlackCat)
+- **GitLab**: [JoseBlackCat ](https://gitlab.com/JoseBlackCat)
+- **Email**: [josemblackcat@gmail.com]
 
 ---
 
